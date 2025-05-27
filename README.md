@@ -45,7 +45,7 @@ A neural network developed with Keras that mimics the U-Net architecture but is 
     </td>
   </tr>
 </table>
-
+4. Data Ready for the Network !!!
 
 
 
