@@ -78,5 +78,6 @@ Tests
 
 4. **Final aim**  
    Perfect the model so that you can input a satellite image, automatically generate crops and predictions, then merge those predictions to produce a georeferenced panel mask—enabling panel mask extraction for any area   worldwide:
+   
    ![imagen](https://github.com/user-attachments/assets/66d8cdb3-6a1e-40bb-9a5c-5dce5ed41bd1)
 
