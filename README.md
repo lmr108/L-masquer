@@ -38,10 +38,10 @@ A neural network developed with Keras that mimics the U-Net architecture but is 
 <table>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/2e734787-fc45-48e3-8a8f-cb11aca96a33" alt="imagen 1" width="400" />
+      <img src="https://github.com/user-attachments/assets/2e734787-fc45-48e3-8a8f-cb11aca96a33" alt="imagen 1" width="300" />
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/ce3b66f6-c5fc-4bac-b20f-c3ad6fe50178" alt="imagen 2" width="400" />
+      <img src="https://github.com/user-attachments/assets/ce3b66f6-c5fc-4bac-b20f-c3ad6fe50178" alt="imagen 2" width="300" />
     </td>
   </tr>
 </table>
