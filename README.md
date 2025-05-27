@@ -26,6 +26,11 @@
 ## Description
 A neural network developed with Keras that mimics the U-Net architecture but is much more efficient. Its goal is to segment photovoltaic panels to generate a binary mask of them, and—using the georeferencing of the points—to automatically create drone flight paths. 
 
+## Details
+- **Development time:** 35 hours  
+- **Images used:** 5,795  
+- **Data augmentation:** No
+  
 ## Data Collection
 1. Georeferenced Layer Extraction
 > Starting from a georeferenced panel layer, obtain the exact panel coordinates in the satellite imagery using web scraping.
@@ -60,11 +65,6 @@ Tests
 >><img src="https://github.com/user-attachments/assets/20750c41-7a72-41d5-9d1d-a420b232de64" alt="imagen 8" width="500" />
 >><img src="https://github.com/user-attachments/assets/79289074-7938-469f-be00-60c1a156f7d5" alt="imagen 9" width="500" /> 
 >><img src="https://github.com/user-attachments/assets/fa150667-5d7b-4ccd-9885-ba28f5bcacfc" alt="imagen 10" width="500" /> 
-
-## Details
-- **Development time:** 35 hours  
-- **Images used:** 5,795  
-- **Data augmentation:** No  
 
 ## Future work
 1. **Implement data augmentation**  
