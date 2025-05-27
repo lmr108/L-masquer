@@ -77,4 +77,4 @@ Tests
    Leverage pretrained U-Net or other segmentation backbones if the custom model’s performance plateaus.  
 
 4. **Final aim**  
-   Deliver a fully automated pipeline—from satellite imagery acquisition to drone route planning—powered by accurate photovoltaic panel segmentation.
+   Perfect the model so that you can input a satellite image, automatically generate crops and predictions, then merge those predictions to produce a georeferenced panel mask—enabling panel mask extraction for any area   worldwide.
