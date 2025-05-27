@@ -54,16 +54,21 @@ A neural network developed with Keras that mimics the U-Net architecture but is 
 ## Performance 📈:
 Tests
 >🌱  Solar plants it has been trained on, but not with these specific images 🌱:
-><img src="https://github.com/user-attachments/assets/0ee79235-7986-49e8-af7b-85bc2c55e3b0" alt="imagen 3" width="500" />
-><img src="https://github.com/user-attachments/assets/4072e6fe-10f8-450f-a891-3dc2fca272bb" alt="imagen 4" width="500" />
-><img src="https://github.com/user-attachments/assets/5ea503ff-8c57-4caa-b78c-8d14aa921c6c" alt="imagen 5" width="500" />
-><img src="https://github.com/user-attachments/assets/29d4881f-5db8-411f-a02b-556caa26d823" alt="imagen 6" width="500" /> 
+
+><img src="https://github.com/user-attachments/assets/a1ec313b-6544-4d4c-b673-0f466623c234" alt="imagen 3" width="500" />
+><img src="https://github.com/user-attachments/assets/12725775-29b3-4beb-b53b-46cbb4eda8f3" alt="imagen 4" width="500" />
+><img src="https://github.com/user-attachments/assets/8e907192-9ae3-4220-815d-62d0bbbc3a0e" alt="imagen 5" width="500" />
+><img src="https://github.com/user-attachments/assets/98f2c5a4-9434-470b-9e3d-20a52c9821ee" alt="imagen 6" width="500" /> 
+><img src="https://github.com/user-attachments/assets/a5a10e74-5220-4cdd-9773-b83fd2dad208" alt="imagen 6" width="500" /> 
 
 >>🌱 100% Solar plants never seen before 🌱:<br/>
->><img src="https://github.com/user-attachments/assets/495e7e2c-b056-4ead-8e32-65cf6324ad3b" alt="imagen 7" width="500" />
+>><img src="https://github.com/user-attachments/assets/7b7956a9-e4a4-451c-aef3-9e4a5df648ac" alt="imagen 7" width="500" />
 >><img src="https://github.com/user-attachments/assets/20750c41-7a72-41d5-9d1d-a420b232de64" alt="imagen 8" width="500" />
 >><img src="https://github.com/user-attachments/assets/e91aefa6-1df3-4a18-a99b-960ebb249198" alt="imagen 9" width="500" /> 
 >><img src="https://github.com/user-attachments/assets/d9dfb6f2-1b97-4cce-9369-60c7e765f298" alt="imagen 10" width="500" /> 
+![imagen]()
+
+
 ![imagen]()
 
 ## Future work
