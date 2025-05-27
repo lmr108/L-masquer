@@ -29,7 +29,9 @@ A neural network developed with Keras that mimics the U-Net architecture but is 
 ## Data Collection
 1. Georeferenced Layer Extraction
 > Starting from a georeferenced panel layer, obtain the exact panel coordinates in the satellite imagery using web scraping.
-> 
+![imagen](https://github.com/user-attachments/assets/014e0726-ba48-46fa-86fb-74d976c2273a)
+
+
 > 
 2. 
 
