@@ -85,6 +85,8 @@ Tests
    ![imagen](https://github.com/user-attachments/assets/66d8cdb3-6a1e-40bb-9a5c-5dce5ed41bd1)
 
 ## Model
+![42b03f7b-4f20-45f2-8258-4dd7f3ee8e22-1](https://github.com/user-attachments/assets/5647f841-ca18-48f8-acda-41d1ce58f0ff)
+
 ![L_masker](https://github.com/user-attachments/assets/1b891b6e-1b9a-48bb-a52e-74edfa6d46f2)
 
 
