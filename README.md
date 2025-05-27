@@ -47,5 +47,17 @@ A neural network developed with Keras that mimics the U-Net architecture but is 
 </table>
 4. Data Ready for the Network !!!
 
+##📈 RENDIMIENTO:
+> Conjunto de test
+>> 🌱 Plantas con las que ha entrenado, pero no con estas imágenes en concreto 🌱:
+>>![imagen](https://github.com/user-attachments/assets/0ee79235-7986-49e8-af7b-85bc2c55e3b0)
+>>![imagen](https://github.com/user-attachments/assets/4072e6fe-10f8-450f-a891-3dc2fca272bb)
+>>![imagen](https://github.com/user-attachments/assets/5ea503ff-8c57-4caa-b78c-8d14aa921c6c)
+>>![imagen](https://github.com/user-attachments/assets/29d4881f-5db8-411f-a02b-556caa26d823)
+>> 🌱Plantas 100% nuevas, nunca vistas 🌱:
+>>![imagen](https://github.com/user-attachments/assets/495e7e2c-b056-4ead-8e32-65cf6324ad3b)
+>>![imagen](https://github.com/user-attachments/assets/20750c41-7a72-41d5-9d1d-a420b232de64)
+>>![imagen](https://github.com/user-attachments/assets/79289074-7938-469f-be00-60c1a156f7d5)
+![imagen](https://github.com/user-attachments/assets/fa150667-5d7b-4ccd-9885-ba28f5bcacfc)
 
 
