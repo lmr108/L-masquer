@@ -27,7 +27,7 @@
 A neural network developed with Keras that mimics the U-Net architecture but is much more efficient. Its goal is to segment photovoltaic panels to generate a binary mask of them, and—using the georeferencing of the points—to automatically create drone flight paths. 
 
 ## Details
-- **Development time:** 35 hours  
+- **Development time:** 40 hours  
 - **Images used:** 5,795  
   
 ## Data Collection
