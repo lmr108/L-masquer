@@ -62,8 +62,9 @@ Tests
 >>🌱 100% Solar plants never seen before 🌱:<br/>
 >><img src="https://github.com/user-attachments/assets/495e7e2c-b056-4ead-8e32-65cf6324ad3b" alt="imagen 7" width="500" />
 >><img src="https://github.com/user-attachments/assets/20750c41-7a72-41d5-9d1d-a420b232de64" alt="imagen 8" width="500" />
->><img src="https://github.com/user-attachments/assets/79289074-7938-469f-be00-60c1a156f7d5" alt="imagen 9" width="500" /> 
->><img src="https://github.com/user-attachments/assets/fa150667-5d7b-4ccd-9885-ba28f5bcacfc" alt="imagen 10" width="500" /> 
+>><img src="https://github.com/user-attachments/assets/e91aefa6-1df3-4a18-a99b-960ebb249198" alt="imagen 9" width="500" /> 
+>><img src="https://github.com/user-attachments/assets/d9dfb6f2-1b97-4cce-9369-60c7e765f298" alt="imagen 10" width="500" /> 
+![imagen]()
 
 ## Future work
 1. **Implement data augmentation**  
