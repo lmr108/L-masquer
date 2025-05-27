@@ -35,8 +35,16 @@ A neural network developed with Keras that mimics the U-Net architecture but is 
 > ![imagen](https://github.com/user-attachments/assets/c122ec58-deb1-4125-9c25-26ef868eea3f)
 3. Patch Cropping
 >Crop both the satellite image and its corresponding binary mask into 256 × 256 px patches, ensuring the mask is perfectly aligned with each real panel area.
-![imagen](https://github.com/user-attachments/assets/2e734787-fc45-48e3-8a8f-cb11aca96a33)
-![imagen](https://github.com/user-attachments/assets/ce3b66f6-c5fc-4bac-b20f-c3ad6fe50178)
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/2e734787-fc45-48e3-8a8f-cb11aca96a33" alt="imagen 1" width="400" />
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/ce3b66f6-c5fc-4bac-b20f-c3ad6fe50178" alt="imagen 2" width="400" />
+    </td>
+  </tr>
+</table>
 
 
 
