@@ -29,7 +29,6 @@ A neural network developed with Keras that mimics the U-Net architecture but is 
 ## Details
 - **Development time:** 35 hours  
 - **Images used:** 5,795  
-- **Data augmentation:** No
   
 ## Data Collection
 1. Georeferenced Layer Extraction
