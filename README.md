@@ -45,9 +45,9 @@ A neural network developed with Keras that mimics the U-Net architecture but is 
     </td>
   </tr>
 </table>
-4. Data Ready for the Network !!!
+4. Data Ready for the Network !!!  
 
-##📈 RENDIMIENTO:
+## RENDIMIENTO 📈:
 > Conjunto de test
 >> 🌱 Plantas con las que ha entrenado, pero no con estas imágenes en concreto 🌱:
 >>![imagen](https://github.com/user-attachments/assets/0ee79235-7986-49e8-af7b-85bc2c55e3b0)
