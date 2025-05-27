@@ -59,18 +59,16 @@ Tests
 ><img src="https://github.com/user-attachments/assets/12725775-29b3-4beb-b53b-46cbb4eda8f3" alt="imagen 4" width="500" />
 ><img src="https://github.com/user-attachments/assets/8e907192-9ae3-4220-815d-62d0bbbc3a0e" alt="imagen 5" width="500" />
 ><img src="https://github.com/user-attachments/assets/98f2c5a4-9434-470b-9e3d-20a52c9821ee" alt="imagen 6" width="500" /> 
-><img src="https://github.com/user-attachments/assets/a5a10e74-5220-4cdd-9773-b83fd2dad208" alt="imagen 6" width="500" /> 
+><img src="https://github.com/user-attachments/assets/a5a10e74-5220-4cdd-9773-b83fd2dad208" alt="imagen 12" width="500" /> 
 
 >>🌱 100% Solar plants never seen before 🌱:<br/>
 >><img src="https://github.com/user-attachments/assets/7b7956a9-e4a4-451c-aef3-9e4a5df648ac" alt="imagen 7" width="500" />
 >><img src="https://github.com/user-attachments/assets/20750c41-7a72-41d5-9d1d-a420b232de64" alt="imagen 8" width="500" />
 >><img src="https://github.com/user-attachments/assets/e91aefa6-1df3-4a18-a99b-960ebb249198" alt="imagen 9" width="500" /> 
->><img src="https://github.com/user-attachments/assets/d9dfb6f2-1b97-4cce-9369-60c7e765f298" alt="imagen 10" width="500" /> 
-![imagen]()
-
-
-![imagen]()
-
+>><img src="https://github.com/user-attachments/assets/d9dfb6f2-1b97-4cce-9369-60c7e765f298" alt="imagen 10" width="500" />
+>><img src="https://github.com/user-attachments/assets/867d481d-b2f3-4064-a873-9d94841f35bf" alt="imagen 11" width="500" /> 
+>><img src="https://github.com/user-attachments/assets/c83cee33-51b8-412c-92ee-97b035359158" alt="imagen 13" width="500" />
+>>
 ## Future work
 1. **Implement data augmentation**  
    Introduce techniques (rotations, flips, brightness/contrast adjustments) to improve horizontal and diagonal panel detection.  
