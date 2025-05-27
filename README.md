@@ -47,7 +47,7 @@ A neural network developed with Keras that mimics the U-Net architecture but is 
 </table>
 4. Data Ready for the Network !!!  
 
-# Performance 📈:
+## Performance 📈:
 Tests
 >🌱  Solar plants it has been trained on, but not with these specific images 🌱:
 ><img src="https://github.com/user-attachments/assets/0ee79235-7986-49e8-af7b-85bc2c55e3b0" alt="imagen 3" width="500" />
@@ -61,7 +61,20 @@ Tests
 >><img src="https://github.com/user-attachments/assets/79289074-7938-469f-be00-60c1a156f7d5" alt="imagen 9" width="500" /> 
 >><img src="https://github.com/user-attachments/assets/fa150667-5d7b-4ccd-9885-ba28f5bcacfc" alt="imagen 10" width="500" /> 
 
-# Details
+## Details
+- **Development time:** 35 hours  
+- **Images used:** 5,795  
+- **Data augmentation:** No  
 
+## Future work
+1. **Implement data augmentation**  
+   Introduce techniques (rotations, flips, brightness/contrast adjustments) to improve horizontal and diagonal panel detection.  
 
-# Future work
+2. **Explore alternative Keras architectures**  
+   Test different layer configurations and hyperparameters (e.g., deeper networks, attention blocks) to boost segmentation quality.  
+
+3. **Evaluate transfer learning**  
+   Leverage pretrained U-Net or other segmentation backbones if the custom model’s performance plateaus.  
+
+4. **Final aim**  
+   Deliver a fully automated pipeline—from satellite imagery acquisition to drone route planning—powered by accurate photovoltaic panel segmentation.
