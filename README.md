@@ -28,7 +28,9 @@ A neural network developed with Keras that mimics the U-Net architecture but is 
 
 ## Details
 - **Development time:** 40 hours  
-- **Images used:** 5,795  
+- **Hardware:** Intel Core i9-10900X
+- **Frameworks & versiones:** CUDA: 11.8 | cuDNN: 8.7 | torch: 2.6.0+cu118
+- **Training time:** ~2.30h
   
 ## Data Collection
 1. Georeferenced Layer Extraction
