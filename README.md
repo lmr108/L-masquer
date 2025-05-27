@@ -29,7 +29,7 @@ A neural network developed with Keras that mimics the U-Net architecture but is 
 ## Details
 - **Development time:** 40 hours  
 - **Hardware:** Intel Core i9-10900X
-- **Frameworks & versiones:** CUDA: 11.8 | cuDNN: 8.7 | torch: 2.6.0+cu118 | Python: 3.12.10
+- **Frameworks & versiones:** tensorflow 
 - **Training time:** ~2.30h
   
 ## Data Collection
