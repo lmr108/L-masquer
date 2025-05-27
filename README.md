@@ -61,4 +61,7 @@ Tests
 >><img src="https://github.com/user-attachments/assets/79289074-7938-469f-be00-60c1a156f7d5" alt="imagen 9" width="500" /> 
 >><img src="https://github.com/user-attachments/assets/fa150667-5d7b-4ccd-9885-ba28f5bcacfc" alt="imagen 10" width="500" /> 
 
+# Details
 
+
+# Future work
