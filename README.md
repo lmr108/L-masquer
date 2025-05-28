@@ -65,7 +65,6 @@ Tests
 
 >>🌱 100% Solar plants never seen before 🌱:<br/>
 >><img src="https://github.com/user-attachments/assets/7b7956a9-e4a4-451c-aef3-9e4a5df648ac" alt="imagen 7" width="500" />
->><img src="https://github.com/user-attachments/assets/20750c41-7a72-41d5-9d1d-a420b232de64" alt="imagen 8" width="500" />
 >><img src="https://github.com/user-attachments/assets/e91aefa6-1df3-4a18-a99b-960ebb249198" alt="imagen 9" width="500" /> 
 >><img src="https://github.com/user-attachments/assets/d9dfb6f2-1b97-4cce-9369-60c7e765f298" alt="imagen 10" width="500" />
 >><img src="https://github.com/user-attachments/assets/867d481d-b2f3-4064-a873-9d94841f35bf" alt="imagen 11" width="500" /> 
