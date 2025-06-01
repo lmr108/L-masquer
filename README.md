@@ -1,4 +1,4 @@
-# L-masquer
+# Solar Panel Segmentation with Custom Keras Model
 
 <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
   <!-- Built for badge -->
